@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "titulo": "Ubisoft",
+      "link": "https://assassinscreed.ubisoft.com/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Outros Jogos",
+        "url": "https://www.ubisoft.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Assassin's Creed Odyssey",
+          "url": "https://www.youtube.com/watch?v=ROVho-9AdV4"
+        },
+        {
+          "titulo": "Assassin's Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=G5LYmXL8DrI"
+        },
+        {
+          "titulo": "Assassin's Creed Origins",
+          "url": "https://www.youtube.com/watch?v=L6p5fF2SwnE"
+        },
+        {
+          "titulo": "Far Cry 6",
+          "url": "https://www.youtube.com/watch?v=DqgbdEsmrK4"
+        },
+        {
+          "titulo": "Far Cry: New Dawn",
+          "url": "https://www.youtube.com/watch?v=0HKMixULyDY"
+        },
+        {
+          "titulo": "Watch Dogs",
+          "url": "https://www.youtube.com/watch?v=bylQcK-T-yo"
+        },
+        {
+          "titulo": "Watch Dogs: Legion",
+          "url": "https://www.youtube.com/watch?v=HBWw8XYNG-c"
+        },
+        {
+          "titulo": "Just Dance 2020",
+          "url": "https://www.youtube.com/watch?v=cQ4zobOfQSw"
+        }        
+      ]
+    },
+    {
+      "titulo": "EA Sports",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Outros Jogos",
+        "url": "https://www.ea.com/pt-br/games"
+      },
+      "videos": [
+        {
+          "titulo": "Fifa 2021",
+          "url": "https://www.youtube.com/watch?v=tuLAn9adQpI"
+        },
+        {
+          "titulo": "UFC 4",
+          "url": "https://www.youtube.com/watch?v=GjugTk9ovcI"
+        },
+        {
+          "titulo": "Star Wars Jedi: Fallen Order",
+          "url": "https://www.youtube.com/watch?v=yO70vARJj_4"
+        },
+        {
+          "titulo": "Battlefiled V",
+          "url": "https://www.youtube.com/watch?v=ppWwpWA4voI"
+        }, 
+        {
+          "titulo": "The Sims 5",
+          "url": "https://www.youtube.com/watch?v=NEorhc25NVg"
+        }
+      ]
+    },
+    {
+      "titulo": "Microsoft",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Exclusivos da Xbox One",
+        "url": "https://www.xbox.com/pt-BR/games/xbox-one"
+      },
+      "videos": [
+        {
+          "titulo": "Sea of Thieves",
+          "url": "https://www.youtube.com/watch?v=EHLrlTft2ts"
+        },
+        {
+          "titulo": "Crackdown 3",
+          "url": "https://www.youtube.com/watch?v=hU-34zzu0Rg"
+        },
+        {
+          "titulo": "Forza Horizon 4",
+          "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
+        },
+        {
+          "titulo": "Quantum Break",
+          "url": "https://www.youtube.com/watch?v=peXo_fUXCVE"
+        },
+        {
+          "titulo": "Ryse: Son of Rome",
+          "url": "https://www.youtube.com/watch?v=pKU9cegUE6o"
+        },
+        {
+          "titulo": "Gears 5",
+          "url": "https://www.youtube.com/watch?v=R8USeXZJw2k"
+        }
+      ]
+    },
+    {
+      "titulo": "Sony",
+      "cor": "red",
+      "link_extra": {
+        "text": "Exclusivos da PS4",
+        "url": "https://www.playstation.com/pt-br/explore/gamefinder/"
+      },
+      "videos": [
+        {
+          "titulo": "Spider-Man",
+          "url": "https://www.youtube.com/watch?v=XUT4vNTsZF4"
+        },
+        {
+          "titulo": "The Last Us",
+          "url": "https://www.youtube.com/watch?v=NRZ9kL3F2Po"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "The Last of Us Part II",
+          "url": "https://www.youtube.com/watch?v=mh6TaH-H1C4"
+        },
+        {
+          "titulo": "Uncharted 4",
+          "url": "https://www.youtube.com/watch?v=bJHdUA0TO1Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Wonder Woman 1984",
+          "url": "https://www.youtube.com/watch?v=8XrFAXykgoc"
+        },
+        {
+          "titulo": "The Perks of Being a Wallflower",
+          "url": "https://www.youtube.com/watch?v=TsIYJDAscLE"
+        },
+        {
+          "titulo": "Birds Of Prey",
+          "url": "https://www.youtube.com/watch?v=Iz49Jh7ZbLA"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
