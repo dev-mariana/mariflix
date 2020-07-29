@@ -23,3 +23,10 @@ body {
 a {
   color: inherit;
 } 
+
+/* deixa o footer lá embaixo */
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
