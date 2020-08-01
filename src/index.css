@@ -30,3 +30,29 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.error-404 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 18px !important;
+}
+
+.img-error {
+  width: 20rem;
+}
+
+.ButtonBack {
+  background-color: #141414;
+  width: 12rem;
+  border-radius: 14px !important;
+  text-align: center;
+}
+
+.ButtonBack:hover {
+  opacity: 0.8 !important;
+}
+
+.back {
+  display: flex;
+  justify-content: center;
+}

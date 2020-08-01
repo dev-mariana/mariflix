@@ -4,6 +4,7 @@ import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
+// import Button from './components/Button';
 
 function Home() {
   return (
@@ -36,9 +37,9 @@ function Home() {
         category={dadosIniciais.categorias[4]}
       />      
 
-      <Carousel
+      {/* <Carousel
         category={dadosIniciais.categorias[5]}
-      />      
+      />       */}
 
       <Footer/>  
     </div>
