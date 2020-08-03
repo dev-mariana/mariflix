@@ -89,9 +89,9 @@ function CadastroCategoria() {
 
       </form>
 
-      <div>
+      {/* <div>
         Loading...
-      </div>
+      </div> */}
 
       <ul>
         {categorias.map((categoria, indice) => (
